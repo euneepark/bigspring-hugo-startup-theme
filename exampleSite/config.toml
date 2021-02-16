@@ -76,6 +76,7 @@ contact_form_action = "#"
 description = "This is meta description"
 logo = "images/logo.png"
 logo_width = "200px"
+social = []
 [params.navigation_button]
 enable = true
 label = "Get Started"
@@ -95,19 +96,3 @@ link = "plugins/slick/slick.min.js"
 [params.preloader]
 enable = false
 preloader = ""
-[[params.social]]
-icon = "ti-facebook"
-link = "#"
-title = "facebook"
-[[params.social]]
-icon = "ti-twitter-alt"
-link = "#"
-title = "twitter"
-[[params.social]]
-icon = "ti-skype"
-link = "#"
-title = "skype"
-[[params.social]]
-icon = "ti-linkedin"
-link = "#"
-title = "linkedin"
