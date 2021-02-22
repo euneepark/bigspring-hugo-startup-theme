@@ -1,7 +1,7 @@
 ####################### Banner #########################
 banner:
   title : "Addressing the rise of congenital syphilis in US"
-  image : "images/banner-art.svg"
+  image : "images/banner-art.png"
   content : “Move beyond counting only those cases in persons who have access to diagnosis and treatment, 
   to develop innovative strategies to understand the burden of disease in those who may not access care. — Gail Bolan, M.D. (CDC)”
   button:
