@@ -1,8 +1,9 @@
 ####################### Banner #########################
 banner:
-  title : "Let us solve your critical website <br> development challenges"
+  title : "Addressing the rise of congenital syphilis in US"
   image : "images/banner-art.svg"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus"
+  content : “Move beyond counting only those cases in persons who have access to diagnosis and treatment, 
+  to develop innovative strategies to understand the burden of disease in those who may not access care. — Gail Bolan, M.D. (CDC)”
   button:
     enable : true
     label : "Contact With Us"
